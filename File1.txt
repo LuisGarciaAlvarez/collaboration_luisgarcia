@@ -1,3 +1,6 @@
 Primer Archivo .txt
 Viernes 9 Agosto
 Hello
+
+#Collaboration on file1 from Luis 
+This lines are to make the merge message on Luis Repository
